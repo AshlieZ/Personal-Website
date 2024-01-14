@@ -1,3 +1,3 @@
-# Project 3
+# Personal Website
 
-**Submission Instructions:** Stage, commit, and push your changed files. Then complete the submission form.
+This website is a portfolio to display a selection of my artwork.
